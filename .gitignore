@@ -1,0 +1,5 @@
+log/
+trained_models/
+__pycache__/
+utils/__pycache__/
+envs/__pycache__/
