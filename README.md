@@ -2,6 +2,9 @@
 Pytorch code for the submission:
 >SeRO: Self-Supervised Reinforcement Learning for Recovery from Out-of-Distribution Situations, IJCAI 2023
 
+## Supplementary material
+- [Supplementary material](/SeRO_IJCAI23_supp.pdf)
+
 ## Requirements
 - mujoco200 (https://www.roboti.us/)
 
